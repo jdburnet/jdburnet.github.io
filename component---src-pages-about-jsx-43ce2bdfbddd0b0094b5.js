@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkjdburnet_web=self.webpackChunkjdburnet_web||[]).push([[354],{1866:function(t,n,e){e.r(n);e(7294);var u=e(4287),b=e(6638),i=e(9021);n.default=function(){return(0,i.tZ)(u.Z,null,(0,i.tZ)("h1",null,"about me"),(0,i.tZ)("p",null,"You can find me on",(0,i.tZ)(b.d,{to:"https://www.github.com/jdburnet",text:"github"}),"and",(0,i.tZ)(b.d,{to:"https://www.linkedin.com/in/jackson-burnette-354363121",text:"linkedin"})))}}}]);
+//# sourceMappingURL=component---src-pages-about-jsx-43ce2bdfbddd0b0094b5.js.map
